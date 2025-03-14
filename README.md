@@ -1,11 +1,11 @@
 # ecommerce-analysis
 
 Análise de Dados de E-commerce
-Este projeto visa realizar uma análise de dados de e-commerce, com o objetivo de explorar e visualizar métricas importantes de vendas, produtos e clientes. O projeto utiliza MySQL, Python e um dashboard interativo para aplicar técnicas de análise de dados e apresentar resultados úteis. O projeto está em construção e o comit atual não contém todas as funcionalidades planejadas.
+Este projeto visa realizar uma análise de dados de e-commerce, com o objetivo de explorar e visualizar métricas importantes de vendas, produtos e clientes. O projeto utiliza SQLite, Python e um dashboard interativo para aplicar técnicas de análise de dados e apresentar resultados úteis. O projeto está em construção e o comit atual não contém todas as funcionalidades planejadas.
 
 Tecnologias Utilizadas
 
-MySQL: Banco de dados relacional para armazenar os dados do e-commerce, como vendas, clientes e produtos.
+SQLite: Banco de dados relacional para armazenar os dados do e-commerce, como vendas, clientes e produtos.
 
 Python: Linguagem de programação utilizada para realizar a análise de dados e manipulação das informações extraídas do banco de dados.
 
